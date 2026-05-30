@@ -41,4 +41,5 @@ global x = 20
 ## Author
 Sachi Singh
 
-Sachi Ananya Singh
+## Author
+
